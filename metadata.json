@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Rohit Madhurkar | Interventional Radiology Consultations",
+  "description": "Book video and in-person consultations with Dr. Rohit Madhurkar, Consultant Head Interventional Radiologist in Bengaluru. Instant slot booking, Google Meet integration, and clinic appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
